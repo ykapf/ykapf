@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://komarev.com/ghpvc/?username=ykapf&color=green)
+![](https://komarev.com/ghpvc/?username=ykapf&color=brightgreen)
 
 ### Portfolio
 
