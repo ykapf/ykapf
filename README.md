@@ -21,10 +21,10 @@
 
 <h3 align="center">Statistics: </h3>
 <p align="center">
-  <a href="https://github.com/ykapf">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ykapf&theme=transparent" />
-  </a>
  
+  <a href="https://github.com/ykapf">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykapf&hide_border=true&card_width=338&theme=transparent" />
+  </a>
   <a href="https://github.com/ykapf">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ykapf&theme=transparent" />
   </a>
