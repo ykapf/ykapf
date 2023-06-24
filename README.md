@@ -19,7 +19,7 @@
 
 
 <p align="center">
-     <h3>Statistics</h3><br><br>
+     <h3>Statistics:</h3><br><br>
  </p>
 <p align="center">
   <a href="https://github.com/ykapf">
