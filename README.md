@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/ykapf">
-    <img src="https://komarev.com/ghpvc/?username=ykapf&color=brightgreen" />
+    <img src="https://komarev.com/ghpvc/?username=ykapf&color=blue" />
   </a>
 </p>
 
