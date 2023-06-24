@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi, there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
 
 
 ![](https://komarev.com/ghpvc/?username=ykapf&color=brightgreen)
@@ -8,7 +9,7 @@
 > *pending...*
 
 
-<details>
+### Details
 <p align="center">
   <a href="https://github.com/ykapf">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ykapf&theme=transparent" />
@@ -21,7 +22,7 @@
   </a>
  
 </p>
-</details>
+
 
 <!--
 **ykapf/ykapf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
