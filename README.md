@@ -18,9 +18,9 @@
 
 
 
-<p align="center">
-     <h2>Statistics:</h2><br><br>
-</p>
+
+     <h3 allign="center">Statistics:</h3><br><br>
+
 <p align="center">
   <a href="https://github.com/ykapf">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ykapf&theme=transparent" />
