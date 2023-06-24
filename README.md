@@ -8,7 +8,7 @@
         Currenntly studying Computer Science and AI at Loughborough University.<br>
         Learning to code by creating new projects all the time.<br>
         Obsessed with animations and graphics.<br>
-    </i><br>
+    </i><br><br>
    
 </p>
 
