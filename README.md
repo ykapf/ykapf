@@ -19,7 +19,7 @@
 
 
 <p align="center">
-    ### Details
+     <b>Details</b><br><br>
   <a href="https://github.com/ykapf">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ykapf&theme=transparent" />
   </a>
