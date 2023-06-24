@@ -1,12 +1,20 @@
 <h1 align="center">Hi, there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Yusuf.<br>
+        Currenntly studying Computer Science and AI at Loughborough University.<br>
+        Learning to code by creating new projects all the time.<br>
+        Obsessed with animations and graphics.<br>
+    </i><br>
+   
+</p>
 
-![](https://komarev.com/ghpvc/?username=ykapf&color=brightgreen)
 
-### Portfolio
 
-> *pending...*
+
 
 
 ### Details
@@ -22,6 +30,15 @@
   </a>
  
 </p>
+
+
+
+<p align="center">
+  <a href="https://github.com/ykapf">
+    <img src="https://komarev.com/ghpvc/?username=ykapf&color=brightgreen)" />
+  </a>
+</p>
+
 
 
 <!--
