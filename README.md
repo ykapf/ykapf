@@ -8,7 +8,7 @@
 
 <h3 align="center">Welcome to my page!</h3>
 <p align="center">
-    <b></b><br><br>
+    <<br><br>
     <i>
         I'm currenntly studying Computer Science and AI at Loughborough University.<br>
         Not to flex, but this is my most used emoji ✅<br>
