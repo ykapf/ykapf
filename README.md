@@ -13,6 +13,7 @@
         I'm currently studying Computer Science and AI at Loughborough University.<br>
         Not to flex, but this is my most used emoji ✅<br>
         Obsessed with animations and graphics.<br>
+        Border 1px solid red 
     </i><br><br>
    
 </p>
