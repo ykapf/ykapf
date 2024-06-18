@@ -10,7 +10,7 @@
 <p align="center">
     <br>
     <i>
-        I'm currently studying Computer Science and AI at Loughborough University.<br>
+        Computer Science and AI at Loughborough University.<br>
         Not to flex, but this is my most used emoji ✅<br>
         Obsessed with animations and graphics.<br>
         border: 1px solid red 
