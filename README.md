@@ -26,21 +26,6 @@
 <br>
 
 <!-- GitHub Stats -->
-<h2 align="center">GitHub Statistics</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ykapf&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykapf&layout=compact&hide_border=true&theme=github_dark" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ykapf&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-<br>
 
 <!-- Contribution Graph -->
 <h2 align="center">Contribution Activity</h2>
