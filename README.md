@@ -6,18 +6,7 @@
 
 </div>
 
-<!-- About Me -->
-<h2 align="center">About Me</h2>
 
-<p align="center">
-  <i>
-    🎓 Computer Science and AI at Loughborough University.<br>
-    🎨 Obsessed with animations and graphics.<br>
-    ✅ Not to flex, but this is my most used emoji.<br>
-    💻 Turning ideas into code, one project at a time.<br><br>
-    <code>border: 1px solid red;</code>
-  </i>
-</p>
 
 <br>
 
