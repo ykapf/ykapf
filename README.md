@@ -12,16 +12,6 @@
 
 
 
-<!-- 3D Contributions -->
-<h2 align="center">3D Contribution Calendar</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ykapf/ykapf/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contributions" />
-
-</div>
-
-<br><br>
 
 
 
