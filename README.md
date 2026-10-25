@@ -4,10 +4,6 @@
 
 # Hi, there! <img src="https://github.com/ykapf/ykapf/assets/118452591/df96985f-cd19-4834-b7d9-b86497c3ed78" width="42" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Computer+Science+%26+AI;I+love+animations+%26+graphics;Always+building+something+new..." alt="Typing SVG" />
-
-</div>
-
 <br>
 
 <!-- About Me -->
