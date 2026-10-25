@@ -37,15 +37,22 @@
 <!-- Snake Animation -->
 <h2 align="center">The Contribution Snake</h2>
 
+
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ykapf/ykapf/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ykapf/ykapf/output/github-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ykapf/ykapf/output/github-snake.svg" width="95%">
-</picture>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ykapf/ykapf/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ykapf/ykapf/output/github-contribution-grid-snake.svg">
+    <img
+      alt="Snake eating my contributions"
+      src="https://raw.githubusercontent.com/ykapf/ykapf/output/github-contribution-grid-snake.svg"
+      width="95%">
+  </picture>
 </div>
+
 
 <br>
 
