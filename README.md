@@ -14,12 +14,14 @@
 
 <!-- Contribution Graph -->
 
+
+<!-- Contribution Activity -->
 <h2 align="center">Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ykapf&theme=github-compact"
-    alt="GitHub Activity Graph"
+    src="https://ghchart.rshah.org/39d353/ykapf"
+    alt="GitHub Contribution Chart"
     width="95%"
   />
 </p>
