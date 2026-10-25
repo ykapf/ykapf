@@ -10,27 +10,23 @@
 
 <br>
 
-<!-- GitHub Stats -->
-
-<!-- Contribution Graph -->
 
 
-<!-- Contribution Activity -->
-<h2 align="center">Contribution Activity</h2>
+<!-- 3D Contributions -->
+<h2 align="center">3D Contribution Calendar</h2>
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/39d353/ykapf"
-    alt="GitHub Contribution Chart"
-    width="95%"
-  />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ykapf/ykapf/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contributions" />
+
+</div>
+
+<br><br>
 
 
-<br>
 
 <!-- Snake Animation -->
-<h2 align="center">The Contribution Snake</h2>
+
 
 
 <div align="center">
@@ -49,18 +45,7 @@
 </div>
 
 
-<br>
 
-<!-- 3D Contributions -->
-<h2 align="center">3D Contribution Calendar</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ykapf/ykapf/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contributions" />
-
-</div>
-
-<br>
 
 <!-- Profile Views -->
 <div align="center">
@@ -68,7 +53,5 @@
 <img src="https://komarev.com/ghpvc/?username=ykapf&label=Profile+Views&color=39d353&style=for-the-badge" />
 
 <br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=39D353&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Have+a+great+day+%E2%9C%85" alt="Footer" />
 
 </div>
