@@ -4,7 +4,7 @@
 
 # Hi, there! <img src="https://github.com/ykapf/ykapf/assets/118452591/df96985f-cd19-4834-b7d9-b86497c3ed78" width="42" />
 
-<br>
+
 
 <!-- About Me -->
 <h2 align="center">About Me</h2>
