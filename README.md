@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://ykapf.com">
-    <img src="https://ykapf.com/api/readme-racer" alt="YKAPF retro racer with live GitHub stats" width="960">
+    <img src="https://www.ykapf.com/api/readme-racer?v=2" alt="YKAPF retro racer with live GitHub stats" width="960">
   </a>
 </p>
 
